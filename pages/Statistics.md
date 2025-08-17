@@ -1,0 +1,6 @@
+# Text books
+	- “Statistics for Engineers and Scientists”, William Navidi, McGraw Hill Education, India, 6th Edition, 2024.
+	- “Engineering Optimization Theory and Practice”, Singiresu S. Rao, John Wiley & Sons, Inc,5thEdition, 2020
+- [[Intro to Data science]]
+- [[Descriptive Statistics]]
+-
