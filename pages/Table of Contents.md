@@ -7,4 +7,6 @@
 - [[skewed and symmetric distributions]]
 - [[Measures of Spread]]
 - [[chebyshev's inequality]]
+- [[Normal Probability plots]]
+- [[Linear Function of Random variables]]
 -
