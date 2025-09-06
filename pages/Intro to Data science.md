@@ -104,4 +104,8 @@
 - Explain the difference between Data analysis and Data Science #card
 	- ![image.png](../assets/image_1755445597305_0.png)
 - What are the common tasks in Data Science? #card
-	-
+	- Is this A or B ?  - Classification  algorithm
+	- Is this different ? Anamoly detection algorithm
+	- How much or how many ? Regression algorithm
+	- How is this organized ? Clustering algorithm
+	- What should i do next ? Reinforcement learning

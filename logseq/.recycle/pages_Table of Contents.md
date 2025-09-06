@@ -1,0 +1,2 @@
+- [[Intro to Data science]]
+- [[Types of stats and summary stats]]
