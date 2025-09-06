@@ -151,4 +151,5 @@
 		- Standard deviation = 0 only when all values are the same (only when you have a constant and not a "variable").
 		- If you were to "rescale" a variable, the standard deviation would change by the same magnitude.
 		- Like the mean, the standard deviation will be inflated by an outlier case value.
-	-
+	- Did you solve the exercises/questions on types of stats? #card
+		- Yes or no ???

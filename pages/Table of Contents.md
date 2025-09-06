@@ -6,4 +6,5 @@
 - [[Descriptive Statistics]]
 - [[skewed and symmetric distributions]]
 - [[Measures of Spread]]
+- [[chebyshev's inequality]]
 -
