@@ -20,6 +20,12 @@
 		- In bivariate statistical methods we can do correlation analysis and regression Our prediction. The correlation analysis tries to understand how the two variables are correlated. Example:: the price of a house may increase linearly with increase in the area of the house. Or the price with respect to area in plotted could represent some kind of a polynomial function. This correlation analysis is typically done using some visualisations to start with such as scatter plots.
 		- The regression analysis tries to use the correlation between the two variables and tries to predict the values one variable given another variable. For example we could predict the price of a house if given the area of the house.
 	- What is multivariate statistical analysis question? #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-09-10T15:47:43.326Z
+	  card-last-reviewed:: 2025-09-06T15:47:43.326Z
+	  card-last-score:: 5
 		- The multivariate statistical analysis is similar to the bivariate analysis except that instead of the two random variables there could be a set of random variables which means that there could be two or more random variables in the analysis. Example of this is the prices of the House with respect to the area of the house the location of the house the availability of transportation services etc.
 		- As in mulled bivariate statistical analysis we can do correlation and regression. In the corrosion analysis different parameters are measured taken to at a time to understand the correlation.
 	- Describe the inferential methods? #card
