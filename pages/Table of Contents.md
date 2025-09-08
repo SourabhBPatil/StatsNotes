@@ -9,5 +9,10 @@
 - [[chebyshev's inequality]]
 - [[Normal Probability plots]]
 - [[Linear Function of Random variables]]
+- TODO [[Central Limit Theorem]]
+- TODO [[Generation of Random Variates]]
+- TODO [[Principles of Point Estimation]]
+- TODO [[MSE for Bernoulli poisson]]
+- TODO [[MSE for Normal]]
 -
 -
